@@ -1,4 +1,4 @@
 **Referece:**
--MIT 1000 world list
--MSU wordlist 
+- MIT 1000 world list
+- MSU wordlist 
 
